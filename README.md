@@ -21,6 +21,7 @@ This webpage was created for a Independent Project for Epicodus.
 * No known bugs
 
 ## License
-MIT
+MIT License
 
 Copyright (c) 2022 Rosie Gardner
+
