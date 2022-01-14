@@ -1,5 +1,5 @@
 body {
-  background-color: dimgray;
+  background-color: darkolivegreen;
 }
 
 .sidebar {
@@ -14,16 +14,29 @@ body {
 }
 
 h1 {
+  margin: 10px;
+  border: 8px solid black;
+  padding: 15px;
+  background-color: darkred;
   text-align: center;
   font-family: fantasy;
 }
 
 .h1-header {
+  margin: 10px;
+  border: 10px darkred;
+  padding: 15px;
+  background-color: black;
   text-align: center;
+  color: tan;
 }
 
 img {
-  border-radius: 70px;
+  border-radius: 100px;
+  margin: 12px;
+  border: 2px solid tan;
+  padding: 4px;
+  background-color: black;
 }
 
 .general {
@@ -31,6 +44,8 @@ img {
 }
 
 .important {
+  color: tan;
+  font-size: 20px;
   font-family: fantasy;
 }
 
