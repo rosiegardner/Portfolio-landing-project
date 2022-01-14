@@ -52,7 +52,10 @@ img {
   font-family: fantasy;
 }
 
-
+.column {
+  float: left;
+  padding: 5px;
+}
 
  
 
