@@ -4,13 +4,12 @@ body {
 
 .sidebar {
   width: 20%;
-  padding: 10px;
-  border: black;
-  border-width: 50px;
-  background-color: darkred;
-  margin: 5px;
-  box-sizing: border-box;
   float: right;
+  margin: 10px;
+  border: 8px solid black;
+  padding: 15px;
+  background-color: darkred;
+  text-align: center;
 }
 
 h1 {
@@ -24,11 +23,11 @@ h1 {
 
 .h1-header {
   margin: 10px;
-  border: 10px darkred;
+  border: 8px solid tan;
   padding: 15px;
   background-color: black;
   text-align: center;
-  color: tan;
+  color: tan
 }
 
 img {
@@ -56,19 +55,27 @@ img {
 
 .interests {
   font-family: fantasy;
+  color: tan;
 }
 
 .hobbies {
   font-family: fantasy;
+  color: tan;
 }
 
 .skills {
   font-family: fantasy;
+  color: tan;
 }
 
 .column {
   float: left;
   padding: 5px;
+  margin: 10px;
+  padding: 15px;
+  background-color: black;
+  text-align: center;
+  color: tan;
 }
 
  
