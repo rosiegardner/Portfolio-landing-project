@@ -17,5 +17,19 @@ h1 {
   font-family: monospace;
 }
 
+.general {
+  color: black
+}
+
+.important {
+  font-family: fantasy;
+}
+
+.highlight {
+  color: darkred;
+  font-family: fantasy;
+}
+
  
 
+ 
