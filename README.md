@@ -1,6 +1,7 @@
 # Portfolio Landing Page
 
 #### By Rosie Gardner
+* https://github.com/rosiegardner
 
 #### A Portfolio webpage using HTML and CSS
 
