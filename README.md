@@ -1,7 +1,6 @@
 # Portfolio Landing Page
 
 #### By Rosie Gardner
-* https://github.com/rosiegardner
 
 #### A Portfolio webpage using HTML and CSS
 
@@ -13,7 +12,7 @@
 This webpage was created for a Independent Project for Epicodus. 
 
 ## Setup/Insallation Requirements
-* https://github.com/rosiegardner/Portfolio-landing-project.git
+* https://rosiegardner.github.io/Portfolio-landing-project/
 * Clone this repository to your desktop
 * Navigate to the top of directory
 * Open index.html in your browser
