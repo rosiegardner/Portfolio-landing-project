@@ -15,7 +15,7 @@ This webpage was created for a Independent Project for Epicodus.
 * https://github.com/rosiegardner/Portfolio-landing-project.git
 * Clone this repository to your desktop
 * Navigate to the top of directory
-* Open rg/index.html in your browser
+* Open index.html in your browser
 
 ## Known Bugs
 * No known bugs
